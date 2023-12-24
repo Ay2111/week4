@@ -49,9 +49,9 @@ div {
 }
 
 @media screen and (min-width: 772px) {
-    /* Grille à deux colonnes */
+
     div {
-        width: 48%; /* 2% de marge entre les colonnes */
+        width: 48%; 
     }
 
     figure {
